@@ -1,0 +1,18 @@
+.headingname {
+  color: green;
+}
+.heading {
+  color: black;
+}
+
+.subheading {
+  color: blue;
+}
+
+ul {
+  color: cornflowerblue;
+}
+img {
+  height: 200px;
+  width: 300px;
+}
